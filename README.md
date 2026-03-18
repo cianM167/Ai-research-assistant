@@ -9,5 +9,4 @@ and load the page in your browser
 
 
 ##Sample research
-<img width="1033" height="1736" alt="image" src="https://github.com/user-attachments/assets/d03824f5-f3ff-4ef9-a57a-9d8d052577ac" />
-
+<img width="1017" height="1741" alt="image" src="https://github.com/user-attachments/assets/5b1aa0f4-5d9a-41cf-aa6c-4c122ca295d8" />
